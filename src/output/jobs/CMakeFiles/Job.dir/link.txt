@@ -1,0 +1,2 @@
+/Library/Developer/CommandLineTools/usr/bin/ar qc libJob.a CMakeFiles/Job.dir/job.c.o
+/Library/Developer/CommandLineTools/usr/bin/ranlib libJob.a
